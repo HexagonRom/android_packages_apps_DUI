@@ -16,6 +16,7 @@
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
   <!-- Bindable action labels -->
   <string name="label_action_no_action">Keine Aktion</string>
   <string name="label_action_settings_panel">Schnelleinstellungen</string>
@@ -48,6 +49,8 @@
   <string name="label_action_volume_panel">Lautstärkeregler</string>
   <string name="label_action_clear_notifications">Benachrichtigungen löschen</string>
   <string name="label_action_editing_smartbar">SmartBar-Editor</string>
+  <string name="label_action_split_screen">Bildschirm teilen</string>
+
   <!-- Smartbar -->
   <string name="label_smartbar_actions">Aktionen</string>
   <string name="label_smartbar_icon">Symbol</string>
