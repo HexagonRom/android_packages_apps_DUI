@@ -373,6 +373,8 @@ public class SmartBarEditor extends BaseEditor implements View.OnTouchListener {
             removePopupContainer();
         }
         setButtonsEditMode(isOn);
+
+        mHost.setEditMode(isOn);
     }
 
     @Override
